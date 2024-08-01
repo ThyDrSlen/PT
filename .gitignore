@@ -1,0 +1,6 @@
+bin
+.buildozer
+buildozer.spec
+ios.py
+.env
+venv
